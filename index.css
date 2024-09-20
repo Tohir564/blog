@@ -64,6 +64,7 @@ h2 {
   border-style: hidden;
   background-color: hsl(47, 88%, 63%);
   font-weight: 800;
+  border-radius: 8px;
 }
 
 .name {
@@ -80,3 +81,5 @@ a:link  { text-decoration: none;
 color: black; }
 
 a:hover { color: hsl(47, 88%, 63%); }
+
+a:visited { color: black; }
